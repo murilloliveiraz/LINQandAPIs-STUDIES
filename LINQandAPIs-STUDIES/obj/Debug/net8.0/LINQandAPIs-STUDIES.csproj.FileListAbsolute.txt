@@ -1,0 +1,14 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\bin\Debug\net8.0\LINQandAPIs-STUDIES.exe
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\bin\Debug\net8.0\LINQandAPIs-STUDIES.deps.json
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\bin\Debug\net8.0\LINQandAPIs-STUDIES.runtimeconfig.json
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\bin\Debug\net8.0\LINQandAPIs-STUDIES.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\bin\Debug\net8.0\LINQandAPIs-STUDIES.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\LINQandAPIs-STUDIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\LINQandAPIs-STUDIES.AssemblyInfoInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\LINQandAPIs-STUDIES.AssemblyInfo.cs
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\LINQandAPIs-STUDIES.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\LINQandAPIs-STUDIES.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\refint\LINQandAPIs-STUDIES.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\LINQandAPIs-STUDIES.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\LINQandAPIs-STUDIES.genruntimeconfig.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\LINQandAPIs-STUDIES\LINQandAPIs-STUDIES\obj\Debug\net8.0\ref\LINQandAPIs-STUDIES.dll
